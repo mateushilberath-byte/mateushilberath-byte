@@ -79,6 +79,24 @@ Me chamo **Mateus Hilberath**. Atualmente, estou cursando **Análise e Desenvolv
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Excel_%282019%E2%80%932025%29.svg.png" 
 />
 
+<img 
+    align="left" 
+    alt="GIMP"
+    title="GIMP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Source Engine"
+    title="Source Engine" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourceengine/sourceengine-original.svg" 
+/>
+
 
 <br/>
 <br/>
